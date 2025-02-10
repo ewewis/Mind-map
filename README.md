@@ -20,7 +20,8 @@ The creation of this mind map serves several learning objectives:
 ## How to Use  
 1. **[Open the mind map](https://ewewis.github.io/Mind-map/)** to explore key testing areas.  
 2. Use it as a **reference for test planning** and identifying test scenarios.  
-3. Apply its insights to improve the **efficiency and accuracy** of the testing process.  
+3. Apply its insights to improve the **efficiency and accuracy** of the testing process.
+4. This approach can also be used to **create similar mind maps for other online stores or applications**, helping testers structure their testing process in different projects.
 
 ---
 
