@@ -1,7 +1,7 @@
 # Mind Map for Naree.pl Online Store  
 
 This **mind map** was created to enhance skills in **software testing, test planning, and analytical thinking**.  
-It focuses on structuring the testing process for the https://naree.pl/pl/, helping to visualize key areas, dependencies, and potential test scenarios.  
+It focuses on structuring the testing process for the **[Naree](https://naree.pl/pl/)**, helping to visualize key areas, dependencies, and potential test scenarios.  
 
 🔗 **[Click here to view the mind map](https://ewewis.github.io/Mind-map/)**  
 
