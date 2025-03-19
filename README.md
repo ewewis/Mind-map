@@ -27,6 +27,7 @@ The creation of this mind map serves several learning objectives:
 
 ✅ Created to develop skills in **software testing and analytical thinking**.  
 📌 Hosted on **GitHub Pages**.  
+🛠️ Tool **xmind**.
 
 
 
