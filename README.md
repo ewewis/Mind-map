@@ -20,7 +20,7 @@ This mind map was designed to achieve several learning objectives:
 ## **How This Mind Map Helps Testers**  
 
 🔹 **Supports test estimation** – Clearly defines the scope of testing.  
-🔹 **Encourages critical thinking** – Focuses on key areas rather than listing every minor functionality.  
+🔹 **Encourages critical thinking** – Focuses on key areas.  
 🔹 **Provides a structured test approach** – Helps identify gaps and dependencies in testing.  
 
 ---
